@@ -1,8 +1,8 @@
 /********** Template CSS **********/
 :root {
-    --primary: #2878EB;
-    --secondary: #4df176;
-    --light: #ECF4FF;
+    --primary: #288deb;
+    --secondary: #f14d4d;
+    --light: #a0a0a0;
     --dark: #120F2D;
 }
 
@@ -278,6 +278,6 @@ h6,
     top: -25px;
     left: 0;
     border: 13px solid;
-    border-color: transparent #D34351 #D34351 transparent;
+    border-color: transparent #45d343 #D34351 transparent;
     z-index: -1;
 }
